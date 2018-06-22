@@ -1,0 +1,15 @@
+{
+  "name": "eslint-config-ncloud",
+  "version": "1.1.0",
+  "description": "Naver Cloud Platform JavaScript Coding Conventions rules for eslint",
+  "main": "index.js",
+  "repository": "https://github.com/NaverCloudPlatform/eslint-config-ncloud",
+  "author": "유성덕 <sungduk.yu@navercorp.com>",
+  "license": "MIT",
+  "keywords": ["eslint", "eslintconfig", "config", "ncloud", "javascript", "styleguide"],
+  "dependencies": {
+    "eslint": "^4.14.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-restricted-globals": "^0.1.1"
+  }
+}
