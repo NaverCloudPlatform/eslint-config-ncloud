@@ -4,7 +4,6 @@
   "description": "Naver Cloud Platform JavaScript Coding Conventions rules for eslint",
   "main": "index.js",
   "repository": "https://github.com/NaverCloudPlatform/eslint-config-ncloud",
-  "author": "유성덕 <sungduk.yu@navercorp.com>",
   "license": "MIT",
   "keywords": ["eslint", "eslintconfig", "config", "ncloud", "javascript", "styleguide"],
   "dependencies": {
